@@ -22,12 +22,15 @@ The work combines multiple CNN architectures to boost prediction accuracy and in
 | Pituitary    | 2500   |
 | No Tumor     | 2500   |
 
+<img width="647" height="398" alt="image" src="https://github.com/user-attachments/assets/59033fd4-c55c-451f-b268-6c5e46200b47" />
+
+
 ---
 
 ### 🧩 Image Distribution by Class and Split
 
-![Image Distribution](path/to/your_first_image.png)  
-*(Replace the path with your actual image name, e.g. `24b60cbf-0e3c-4844-8697-08c09a9cde36.png`)*
+<img width="717" height="437" alt="image" src="https://github.com/user-attachments/assets/2bd48cfa-fb0d-436a-9997-447467b43116" />
+
 
 ---
 
@@ -51,6 +54,8 @@ The work combines multiple CNN architectures to boost prediction accuracy and in
 | EfficientNetB0 | 0.9718    | 0.9719     | 0.9719  | 0.9718    |
 | 🧩 **Ensemble** | **0.9874** | **0.9875** | **0.9873** | **0.9872** |
 
+<img width="751" height="358" alt="image" src="https://github.com/user-attachments/assets/e365fcca-c07c-4e38-94bd-6bfce32d3dc2" />
+
 ---
 
 ### 🧾 Detailed Results
@@ -63,14 +68,16 @@ The work combines multiple CNN architectures to boost prediction accuracy and in
 | Recall | 0.96 | 0.99 | 1.00 | 1.00 |
 | F1-Score | 0.98 | 0.98 | 0.99 | 1.00 |
 
+<img width="540" height="388" alt="image" src="https://github.com/user-attachments/assets/40cb0e79-8bf3-4575-b478-55439b10adec" />
+
 ---
 
 ## 🔥 Grad-CAM Visualization
 
 Below are Grad-CAM outputs for different models highlighting tumor-affected regions.
 
-![Grad-CAM Comparison](path/to/your_second_image.png)  
-*(Replace the path with your actual Grad-CAM image name, e.g. `ab192189-034e-42b4-83d8-fdec23542c61.png`)*
+<img width="734" height="187" alt="image" src="https://github.com/user-attachments/assets/fb3e3388-69b2-46c7-bf54-74f0650855cf" />
+
 
 ---
 
@@ -79,10 +86,23 @@ Below are Grad-CAM outputs for different models highlighting tumor-affected regi
 You can also add:
 
 - 📈 **Accuracy and Loss Curves**
+  <img width="722" height="185" alt="image" src="https://github.com/user-attachments/assets/34820363-42ed-4d06-859c-7ae23996bef5" />
+
 - 🧮 **Confusion Matrix**
+  <img width="507" height="364" alt="image" src="https://github.com/user-attachments/assets/3ee8a570-5d9b-4330-b718-700d3b5c1663" />
+
+  <img width="510" height="376" alt="image" src="https://github.com/user-attachments/assets/43912a02-3ab0-4545-aedf-d00127b1c551" />
+
+  <img width="511" height="371" alt="image" src="https://github.com/user-attachments/assets/4873dca5-a10d-46e9-bc22-95086b46eae7" />
+
+  <img width="515" height="386" alt="image" src="https://github.com/user-attachments/assets/ffdd7045-f365-4c1c-898b-099b7ad834c2" />
+
 - 🔍 **Sample Predictions**
 
-*(Just upload those plots and reference them like the others above.)*
+<img width="718" height="281" alt="image" src="https://github.com/user-attachments/assets/ec268bb4-39a4-4c8f-af81-ae41eeea2233" />
+<img width="742" height="315" alt="image" src="https://github.com/user-attachments/assets/d64a7784-42e0-499e-8737-fb1e8569111a" />
+<img width="739" height="313" alt="image" src="https://github.com/user-attachments/assets/fc87455f-be6e-4362-a33a-951fe9280753" />
+<img width="738" height="289" alt="image" src="https://github.com/user-attachments/assets/66e03306-8a3a-40ea-ac5d-9f17dd44f5b8" />
 
 ---
 
@@ -99,10 +119,10 @@ You can also add:
 ## 🧾 References
 
 - [Kaggle Notebook](https://www.kaggle.com/code/abdullahalmahmudjoy/ensemble-deep-learning-for-brain-tumor-classifica?scriptVersionId=266878172)
-- [Dataset Source (Kaggle)](https://www.kaggle.com/datasets)
+- [Dataset Source (Kaggle)]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri),(https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset))
 
 ---
 
 💡 *Created by [Abdullah Al Mahmud Joy](https://www.kaggle.com/abdullahalmahmudjoy)*  
-B.Sc. in CSE | AI & Deep Learning Enthusiast  
+B.Sc. in CSE | Teaching Assistant at BUBT | AI & Deep Learning Enthusiast  
 
