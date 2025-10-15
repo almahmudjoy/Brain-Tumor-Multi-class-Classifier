@@ -120,7 +120,7 @@ You can also add:
 ## 🧾 References
 
 - [Kaggle Notebook](https://www.kaggle.com/code/abdullahalmahmudjoy/ensemble-deep-learning-for-brain-tumor-classifica?scriptVersionId=266878172)
-- [Dataset Source (Kaggle)]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri),(https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset))
+- [Dataset Source (Kaggle)][(https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)(https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset))]
 
 ---
 
